@@ -7,7 +7,8 @@ world. Facing stiff competition from streaming services such as Netflix and Amaz
 the Rockbuster Stealth management team is planning to use its existing movie licenses to
 launch an online video rental service in order to stay competitive
 Here, we’ll use SQL to analyze the data and answer any
-ad-hoc business questions that other departments may have.
+ad-hoc business questions that other departments may have. 
+Here I'll share some of the queries and also the visualizations created based on these querries.
 
 [Download the Rockbuster data set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
