@@ -1,0 +1,16 @@
+# Descriptive statistics for numerical variables
+
+SELECT MIN(rental_duration) AS Min_Rental_Duration, 
+MAX(rental_duration) AS Max_Rental_Duration, 
+AVG(rental_duration) AS Avg_Rental_Duration,
+MIN(rental_rate) AS Min_rental_rate, 
+MAX(rental_rate) AS Max_rental_rate, 
+AVG(rental_rate) AS Avg_rental_rate,
+MIN(length) AS Min_length, 
+MAX(length) AS Max_length, 
+AVG(length) AS Avg_length,
+MIN(replacement_cost) AS Min_replacement_cost, 
+MAX(replacement_cost) AS Max_replacement_cost, 
+AVG(replacement_cost) AS Avg_replacement_cost,
+COUNT(*) AS number_of_films
+FROM film
