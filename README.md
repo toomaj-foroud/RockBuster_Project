@@ -1,5 +1,5 @@
 # RockBuster_Project
-## Analysis of Rock Buster movie rental company data set using PostgreSQL
+## Analysis of Rockbuster movie rental company data set using PostgreSQL
 This is the 3rd achievement of Data Analysis course in [CAREERFOUNDRY](https://careerfoundry.com). 
 
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the
